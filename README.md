@@ -64,4 +64,4 @@ Implantação de presença digital do zero pelo meu próprio playbook: Google Bu
 
 ---
 
-📫 seu-email@dominio.com · [LinkedIn](https://linkedin.com/in/lucaslorenco)
+📫 lucasfgl2003@gmail.com · [LinkedIn](https://linkedin.com/in/lucaslorenco)
