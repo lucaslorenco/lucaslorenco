@@ -35,7 +35,7 @@ Um agente que roda 100% na minha máquina: memória em Markdown versionada em Gi
 - **Motor trocável**: uma única peça fala com a IA (hoje `claude -p`; amanhã a API) — desenhado para virar produto
 - **Camadas**: memória (prosa) separada de registro (CSV) — o que é conhecimento vs. o que é contável
 - **Privacidade por padrão**: áudio nunca sai da máquina; escrita do agente restrita a pastas específicas
-- Repo: `github.com/lucaslorenco/genus` *(a publicar)*
+- Repo: https://github.com/lucaslorenco/genus
 
 ### SEPA · OSMEA — estratégia digital & infraestrutura para negócios locais
 Implantação de presença digital do zero pelo meu próprio playbook: Google Business, coleta de avaliações, medição (GA4, Search Console, Meta Pixel), aquisição paga, site. Contratos ativos.
