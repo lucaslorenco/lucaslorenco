@@ -3,7 +3,7 @@
 **Desenvolvedor full-stack & IA · construo o sistema inteiro, do hardware ao agente.**
 Serra Gaúcha, RS · disponível para PJ e vagas Full Stack / IA
 
-[Portfólio](https://https://claude.ai/artifact/PANp9wCJ6oT7ZCBBZSzhNJ) · [LinkedIn](https://linkedin.com/in/lucaslorenco) · lucasfgl2003@gmail.com
+[LinkedIn](https://linkedin.com/in/lucaslorenco) · lucasfgl2003@gmail.com
 
 ---
 
